@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BTC-EV3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">In the Future: Bluetooth controller for any EV3 robots</string>
+    <string name="fragment_one">Control Panel</string>
+    <string name="fragment_two">Configuration</string>
+    <string name="one">Control</string>
+    <string name="two">Config</string>
+</resources>
